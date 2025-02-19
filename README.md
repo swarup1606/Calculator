@@ -1,4 +1,4 @@
-# Python Calculator: Your Command-Line Math Wizard
+# Python Calculator🔢💰
 
 > "Crunch numbers, solve equations, and let the Python magic do the rest!"
 
