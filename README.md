@@ -6,11 +6,6 @@ Welcome to the **Python Calculator** project! This CLI (command-line interface) 
 
 ---
 
-![Screenshot 2025-02-19 171135](https://github.com/user-attachments/assets/41a191d6-c43f-4333-9b68-b99dd63f9aac)
-
-![Screenshot 2025-02-19 171147](https://github.com/user-attachments/assets/62e1cbe3-3cc5-4c77-997c-e9228dc7003b)
-
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -35,6 +30,13 @@ The Python Calculator is designed with simplicity and efficiency in mind. It all
 - **Robust Error Handling:** Prevents issues like division by zero and invalid input.
 - **User-Friendly CLI:** Simple prompts and clear output make it easy to use.
 - **Modular Code:** Easily extendable for future improvements or additional features.
+
+---
+
+![Screenshot 2025-02-19 171135](https://github.com/user-attachments/assets/41a191d6-c43f-4333-9b68-b99dd63f9aac)
+
+![Screenshot 2025-02-19 171147](https://github.com/user-attachments/assets/62e1cbe3-3cc5-4c77-997c-e9228dc7003b)
+
 
 ---
 
